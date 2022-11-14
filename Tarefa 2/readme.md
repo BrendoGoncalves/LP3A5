@@ -16,9 +16,10 @@ Este projeto tem o intuito de solucionar o problema do Produtor-Consumidor. Nest
 No nosso exemplo, resolvemos este problema através de um monitor, que no caso do JAVA, utiliza-se o synchronized
 
 **Fonte**
-. [W3Big](http://www.w3big.com/pt/html/thread-procon.html#gsc.tab=0)
+* [W3Big](http://www.w3big.com/pt/html/thread-procon.html#gsc.tab=0)
 
 
 ![IFSP](print1.png)
+![IFSP](print2.png)
 
 *São Paulo - SP*
