@@ -2,7 +2,7 @@
 ## Instituto Federal de São Paulo
 ### Campus São Paulo
 
-![IFSP](img2.jpeg)
+![IFSP](img2.jpg)
 
 **Professor:** Diego Caldas Chaves
 
@@ -12,9 +12,13 @@
 
 **Sobre o Projeto**
 
-Este documento contém os links do repositório do Git-Hub e do repositório do Notion, respectivamente. No Git-Hub, as pastas estão organizadas na ordem em que as tarefas foram dadas. Além disso, há uma última pasta com outras tarefas, que foram sendo expostas, durante o decorrer do curso.
+Este projeto tem o intuito de solucionar o problema do Produtor-Consumidor. Neste problema, existe um buffer de memória, que é abastecido pelo Produtor e consumido pelo Consumidor. O grande impasse é a memória ficar totalmente cheia e o produtor continuar enviando informações (porém serão perdidas) ou  a memória ficar totalmente vazia e o consumidor não ter suprimento para trabalhar.
+No nosso exemplo, resolvemos este problema através de um monitor, que no caso do JAVA, utiliza-se o synchronized
 
-1. [Link Repositório](https://github.com/BrendoGoncalves/LP3A5.git)
-2. [Link Notion](https://www.notion.so/Aula-1-b0daadb86ac547cba544d077078de869)
+**Fonte**
+. [W3Big](http://www.w3big.com/pt/html/thread-procon.html#gsc.tab=0)
+
+
+![IFSP](print1.png)
 
 *São Paulo - SP*
