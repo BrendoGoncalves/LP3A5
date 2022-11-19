@@ -2,7 +2,7 @@
 ## Instituto Federal de São Paulo
 ### Campus São Paulo
 
-![IFSP](img4.png)
+![IFSP](img4.jpg)
 
 **Professor:** Diego Caldas Chaves
 
