@@ -2,7 +2,7 @@
 ## Instituto Federal de São Paulo
 ### Campus São Paulo
 
-![IFSP](img3.png)
+![IFSP](img1.jpg)
 
 **Professor:** Diego Caldas Chaves
 
@@ -10,7 +10,7 @@
 
 **Prontuário:** SP3047237
 
-#### Programação Paralela - ForkJoin
+#### Programação
 
 **Sobre o Projeto**
 
@@ -19,8 +19,5 @@ Este repositório contém as atividades da matéria Linguagem de Programação I
 
 **Site Intitucional**
 * [IFSP](https://spo.ifsp.edu.br/espaco-do-aluno)
-
-
-![IFSP](img1.jpg)
 
 *São Paulo - SP*
